@@ -9,6 +9,11 @@ qbcore
 
 ## Installation
 Det er bare dragndrop hvis du har FivemDKs filer, det er ikke mit ansvar at du ikke har billederne til de forskellige items da jeg bare fikset scriptet der lå i FivemDKs filer.
+
+Du skal bare lægge [casino] i din resource mappe og så efter gå ind i server.cfg og skrive
+```
+ensure [casino]
+```
 Det er dog muligt at få item billederne fra min [tryk her for min discord](https://discord.gg/aRC9jxjX32) hvis bare du laver en ticket.
 
 ## License
