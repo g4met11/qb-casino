@@ -1,6 +1,6 @@
 # qb-casino
 
-#IKKE LAVET AF MIG!
+##IKKE LAVET AF MIG!
 ## Kun et edit :)
 
 Dette er et casino lavet til QBCore det er lavet til den nyeste verison af qb-target, men ved ikke om det virker til den man bruger på Fivem.dks filer.
